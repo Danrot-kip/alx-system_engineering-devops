@@ -1,2 +1,2 @@
 #!/bin/base
-ls -lRa
+find . -type d -not -name . | wc -l
