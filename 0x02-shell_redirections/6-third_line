@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '3' iecta
+sed -n '3p' iecta
