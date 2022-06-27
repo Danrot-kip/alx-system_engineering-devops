@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '3p' iecta
+head -3 iecta | tail +3
